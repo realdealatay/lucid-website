@@ -18,10 +18,10 @@ export function SiteNav() {
           <Image
             src="/images/logo.png"
             alt="LUCID"
-            width={132}
-            height={72}
+            width={176}
+            height={96}
             priority
-            className="h-8 w-auto object-contain sm:h-9"
+            className="h-11 w-auto object-contain sm:h-14"
           />
         </Link>
         <ul className="flex items-center gap-6 text-sm text-silver/80 sm:gap-8">

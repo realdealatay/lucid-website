@@ -15,9 +15,9 @@ export function SiteFooter() {
         <Image
           src="/images/logo.png"
           alt="LUCID"
-          width={88}
-          height={48}
-          className="h-6 w-auto object-contain opacity-80"
+          width={132}
+          height={72}
+          className="h-9 w-auto object-contain opacity-80 sm:h-10"
         />
 
         <ul className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm text-silver/60">
