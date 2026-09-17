@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "aceternity-ui": {
+      "source": "secondsky/claude-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/aceternity-ui/skills/aceternity-ui/SKILL.md",
+      "computedHash": "e92b2ec7cfd5d27ba88b0a42079aa8c7fddb506d1e0f65d7fa198756a7894a21"
+    }
+  }
+}
